@@ -5,3 +5,4 @@ codes include :
 
 1)cryptoarithmatic
 2)Solving Simple linear equatons
+3)Map Coloring
