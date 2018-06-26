@@ -1,5 +1,5 @@
 # Z3-Python-Interface Based on the book by Dennis Yurichev 
-SMT and SAT (Satisfiability modulo theories) and (Boolean satisfiability problem)
+SMT and SAT (Satisfiability modulo theories) and (Boolean satisfiability problem) problems solved in embedded domain Specific Language(Python).
 
 codes include :
 
