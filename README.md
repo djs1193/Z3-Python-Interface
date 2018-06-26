@@ -7,3 +7,4 @@ codes include :
 2)Solving Simple linear equatons
 3)Map Coloring
 4)np_problem
+5)minesweeper solver
