@@ -8,3 +8,4 @@ codes include :
 3)Map Coloring
 4)np_problem
 5)minesweeper solver
+6)Prime Factorization
